@@ -1,1 +1,2 @@
 Segunda nota de Git2
+Segunda línea escrita en el fichero.
